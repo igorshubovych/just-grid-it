@@ -1,0 +1,23 @@
+{
+  "name": "just-grid-it",
+  "version": "1.0.0",
+  "description": "Nothing but the Bootstrap CSS grid",
+  "main": "css/just-grid-it-all.css",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igorshubovych/just-grid-it.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "css",
+    "grid"
+  ],
+  "author": "Igor Shubovych <igor.shubovych@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/igorshubovych/just-grid-it/issues"
+  },
+  "homepage": "https://github.com/igorshubovych/just-grid-it#readme"
+}
